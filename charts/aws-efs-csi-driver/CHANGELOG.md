@@ -1,7 +1,11 @@
 # Helm chart
 
+# v2.2.8
+* Adds updateStrategy to both the Daemonset and Deployment
+
 # v2.2.7
 * Bump app/driver version to `v1.4.0`
+
 # v2.2.6
 * Bump app/driver version to `v1.3.8`
 
@@ -35,7 +39,7 @@
 * Add node.serviceAccount values for creating and/or specifying daemonset service account
 
 # v2.1.3
-* Bump app/driver version to `v1.3.2` 
+* Bump app/driver version to `v1.3.2`
 
 # v2.1.2
 * Add extra-create-metadata
